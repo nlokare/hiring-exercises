@@ -1,0 +1,23 @@
+{
+  "name": "coding-challenge",
+  "version": "0.0.0",
+  "description": "Programming Exercises for Evaluating Candidates. Please see the individual folders for each README.",
+  "main": "app.js",
+  "dependencies": {
+    "json2csv": "~2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nlokare/hiring-exercises.git"
+  },
+  "author": "Neil Lokare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nlokare/hiring-exercises/issues"
+  },
+  "homepage": "https://github.com/nlokare/hiring-exercises"
+}
